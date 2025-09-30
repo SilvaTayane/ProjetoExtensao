@@ -93,7 +93,6 @@ Os resultados serão apresentados por meio de:
 
 * Relatórios de extensão
 * Publicações em eventos acadêmicos
-* Demonstrações públicas com os protótipos construídos
 
 ---
 
